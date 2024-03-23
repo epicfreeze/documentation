@@ -1,4 +1,4 @@
-import discord
+limport discord
 from discord.ext import commands
 import os
 import asyncio
@@ -78,4 +78,4 @@ async def stats(interaction: discord.Interaction):
 # ------------START UP------------
 # i tried to make cogs but it doesnt work properly
 
-client.run("MTIyMDcxMDM2NjUxNDkwOTI5NA.GIgsdj.Pypl3iZ1u7DI1gquX6zWtUqSePKj4t4TDFMoPo")
+client.run("deleted for safety")
